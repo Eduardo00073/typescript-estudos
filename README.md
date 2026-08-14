@@ -47,3 +47,15 @@ npx ts-node 01-tipos-basicos/tipos.ts
 ---
 
 <p align="center"><i>Material didático desenvolvido como Professor de Programação, Informática e Robótica.</i></p>
+
+---
+
+## ⭐ Gostou do projeto?
+
+Se este material te ajudou, deixe uma estrela — isso ajuda outros estudantes a encontrarem o repositório.
+
+### 🔗 Outros projetos relacionados
+
+🗺️ [React Route Explorer](https://github.com/Eduardo00073/react-route-explorer) — aplicativo de rotas com React e TypeScript.
+
+💛 [JavaScript Fundamentos](https://github.com/Eduardo00073/javascript-fundamentos) — guia definitivo de JavaScript Moderno (ES6+).
